@@ -1,0 +1,10 @@
+{
+  "name": "version-number",
+  "version": "0.3.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "npm run lint"
+  }
+}
